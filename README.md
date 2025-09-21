@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Matteo!
 
-<!--
-**snevil/snevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing an **MSc in Data Science & Engineering** at Politecnico di Torino.  
+💻 I'm passionate about **Machine Learning**, **Data Engineering**, and building smart solutions to solve real-world problems.  
 
-Here are some ideas to get you started:
+🚀 Right now, I'm focusing on developing **side projects** to sharpen my skills and improve the quality of my work — from APIs and automation workflows to ML-driven insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matteos07/)  
+- 🧠 [LeetCode](https://leetcode.com/u/msisti/)  
+
+---
+
+### ⚡ Tech & Tools I Use
+
+- **Languages:** Python, SQL, C++  
+- **Data:** Pandas, NumPy, Scikit-learn, XGBoost  
+- **APIs & Backend:** FastAPI, Flask, REST  
+- **Automation:** n8n, Airflow (basic)  
+- **ML & AI:** Time Series Forecasting, RAG Systems, LLM APIs  
+
+---
+
+> _"Always building, always learning."_  
