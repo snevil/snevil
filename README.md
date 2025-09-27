@@ -10,7 +10,7 @@
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matteos07/)  
-- 🧠 [LeetCode](https://leetcode.com/u/msisti/)  
+- 🧠 [LeetCode](https://leetcode.com/u/msisti/)  (500+ problems solved)
 
 ---
 
